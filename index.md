@@ -1,4 +1,4 @@
-### Welcome to DFU
+# Welcome to DFU
 
 All files corrispond to the readme.txt file. Any and all comments are appriciated and read through. Updates will come out on here first.
 
@@ -6,7 +6,7 @@ Thanks All!
 
 ## Update v0.1
 
-# Added:
+### Added:
 help - for list of commands
 nu - to create new user
 lu - to find user by listed options
@@ -17,5 +17,5 @@ exit - to quit the application
 
 readme.txt for information
 
-# Other:
+### Other:
 - First release
